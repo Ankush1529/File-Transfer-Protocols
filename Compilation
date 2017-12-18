@@ -1,0 +1,3 @@
+Compile the java codes starting with the server side(as in this case filerec.java) and then the client side(this case filetran.java)
+As there is no data loss(no use of probability function) and no error checking,there is no function to resend the data packets.
+filetra.java is a serializable class of filetran.java and demo.java is a serializable class of filerec.java
